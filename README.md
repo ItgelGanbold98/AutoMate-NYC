@@ -21,3 +21,5 @@ other amenities, such as fuel and petrol stations. Below is the list of some of 
   -  Weather and 5-day forecast
   -  Rating feature
   -  Feedback feature
+
+<img src = '/img_src/cover.PNG' alt = "cover"/>
