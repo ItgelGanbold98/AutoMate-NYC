@@ -26,8 +26,8 @@ other amenities, such as fuel and petrol stations. Below is the list of some of 
 <img src = '/img_src/cover.PNG' alt = "cover"/>
 
 # Personal Contributions:
-My role in this project was front-end lead. I worked mostly with React. I also worked with Figma initially during the design phase of the project.
-I also made the promotional video in Hitfilm Express. Voice-over was done through ElevenLabs text-to-speech AI tool.
+My role in this project was front-end lead. I worked mostly with React, implementing most of the core functionalities. I also worked with Figma initially during the design phase of the project.
+I also made the promotional video in Hitfilm Express. Voice-over was done through the ElevenLabs text-to-speech AI tool.
 
 ## More screenshots of the application
 <img src = '/img_src/map.PNG' alt = "map"/>
