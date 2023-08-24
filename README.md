@@ -29,9 +29,8 @@ other amenities, such as fuel and petrol stations. Below is the list of some of 
 My role in this project was front-end lead. I worked mostly with React, implementing most of the core functionalities. I also worked with Figma initially during the design phase of the project.
 I also made the promotional video in Hitfilm Express. Voice-over was done through the ElevenLabs text-to-speech AI tool.
 
-## More screenshots of the application
-<img src = '/img_src/map.PNG' alt = "map"/>
-<img src = '/img_src/final.PNG' alt = "feedback"/>
+## Full screenshot of the application
+<img src = '/img_src/automate.png' alt = "map"/>
 
 My sincere gratitude to my team members who helped build this app to completion!
 
