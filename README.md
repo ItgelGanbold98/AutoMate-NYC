@@ -7,7 +7,9 @@
 
 # AutoMate-NYC
 
-Visit our app [here](http://137.43.49.42/). Watch the promotional video [here](https://drive.google.com/file/d/1e8C7oQAm1JQI5eAlvDbQjMF5HIkOICs8/view?usp=sharing)
+Visit our app [here](http://137.43.49.42/). 
+
+## :movie_camera: Watch the promotional video [here](https://drive.google.com/file/d/1e8C7oQAm1JQI5eAlvDbQjMF5HIkOICs8/view?usp=sharing) :star2:
 
 This is a group project by six Master's students. We incorporated historical data to train the busyness level in Manhattan. 
 The app is tailored towards car users who live in Manhattan. There are 600+ car parks to choose from! Additionally, there are 
